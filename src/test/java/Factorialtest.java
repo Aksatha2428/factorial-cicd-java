@@ -10,7 +10,7 @@ class FactorialTest {
 
     @Test
     void testFactorialOfFive() {
-        assertEquals(12, Factorial.calculate(5));
+        assertEquals(120, Factorial.calculate(5));
     }
 
     @Test
